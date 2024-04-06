@@ -25,6 +25,7 @@ function User() {
     };
     getUserData();
   }, [dispatch, params.login]);
+  //ok
 
   const {
     name,
